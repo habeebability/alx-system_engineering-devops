@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "pwd -to print current working directory"
+echo "chmod u+x 0-current_working_directory - to make the file executable"
+
